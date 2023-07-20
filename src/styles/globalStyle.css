@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    border-sizing: border-box;
+    outline: none;
+}
+:root {
+    --white: #ffffff;
+    --brand: #8257E5;
+    --grey-300: #8D8D99;
+    --grey-800: #202024;
+}
